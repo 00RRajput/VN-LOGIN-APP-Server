@@ -1,8 +1,11 @@
 
+## Project Setup
+
+```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compile
 
 ```sh
 npm run dev
